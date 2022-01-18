@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iraecio&show_icons=true&theme=dark)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iraecio&langs_count=8)]
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iraecio&show_icons=true&theme=dark)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iraecio&langs_count=8&layout=compact&theme=dark)
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
