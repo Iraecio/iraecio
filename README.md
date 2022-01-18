@@ -13,7 +13,7 @@
   <img align="center" alt="Iraecio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Iraecio-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Iraecio-angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://m.media-amazon.com/images/I/41PsLYv3r2L._AC_.jpg?width=676&height=676">
+  <img align="center" alt="Iraecio-pic" height="150" style="border-radius:50px;" src="https://m.media-amazon.com/images/I/41PsLYv3r2L._AC_.jpg">
 </div>
   
   ##
