@@ -1,13 +1,9 @@
 ### Hi there 👋
 
-
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iraecio&show_icons=true&theme=dark)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iraecio&langs_count=8&layout=compact&theme=dark)
-
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/iraecio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iraecio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraecio&layout=compact&langs_count=8&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
